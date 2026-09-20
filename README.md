@@ -45,16 +45,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haroune07&show_icons=true&theme=tokyonight" alt="Haroune's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroune07&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<br>
-
 <p align="center">
   📫 <b>How to reach me:</b> <a href="mailto:harounebelh45@gmail.com">harounebelh45@gmail.com</a>
 </p>
