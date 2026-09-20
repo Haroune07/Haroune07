@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Haroune! 👋</h1>
 
-<h3 align="center">Software Engineering Student | C# & Java | Full-Stack | DevOps Enthusiast</h3>
+<h3 align="center">Software Engineering Student | C# & Java | Full-Stack </h3>
 
 <p align="center">
   I am a passionate software engineering student based in Montreal, pursuing a DEC in Computer Science. I specialize in building robust backend systems, full-stack web applications, and experimenting with advanced software architecture and cloud deployments.<br><br>
